@@ -1,0 +1,7 @@
+Invoice #14
+Customer ID: 5
+Subtotal: 185.00
+Discount: 46.25
+Shipping: 10.70
+Total: 149.45
+Checksum: 599999990000004

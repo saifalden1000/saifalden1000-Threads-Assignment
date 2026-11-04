@@ -1,0 +1,32 @@
+﻿# .NET build outputs
+**/bin/
+**/obj/
+
+# Runtime application data
+**/Data/
+
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# JetBrains Rider
+.idea/
+
+# Test results
+**/TestResults/
+*.trx
+
+# NuGet
+**/packages/
+*.nupkg
+
+# Publish output
+**/publish/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
